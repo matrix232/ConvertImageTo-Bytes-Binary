@@ -1,0 +1,7 @@
+venv/
+.idea/
+__pycache__
+BIC.dll
+test1.png
+test1.pngout_file2.txt
+in_file.png
